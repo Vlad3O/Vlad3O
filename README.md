@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/t4tBw29.png" alt="DevOps Banner"/>
-</p>
-
 <h3 align="center">DevOps инженер | Специалист по автоматизации и облачным технологиям</h3>
 
 ---
