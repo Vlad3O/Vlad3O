@@ -29,8 +29,6 @@
 
 ### 🛠️ Мой технологический стек
 
-Здесь собраны технологии, с которыми я работаю чаще всего.
-
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
   <a href="https://selectel.ru/" target="_blank"><img src="https://img.shields.io/badge/Selectel-22A8E3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjQgMTguN2wtMS44IDEuOC0xLjgtMS44LTEuOCAxLjgtMS44LTEuOC0xLjggMS44LTEuOC0xLjgtMS44IDEuOC0xLjgtMS44VjQuOWgxNC4ydjEzLjhsLTEuOC0xLjgtek0yNCA0Ljl2MTUuOGwtMy42LTMuNi0xLjggMS44LTEuOC0xLjgtMS44IDEuOC0xLjgtMS44LTEuOCAxLjgtMy42IDMuNkgwdjIzLjJoMjMuNFYwaC42eiIvPjwvc3ZnPg==" alt="Selectel"/></a>
@@ -59,8 +57,8 @@
 Здесь показана моя активность. Это отличный способ продемонстрировать вашу вовлеченность.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Vlad3O]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Vlad3O]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vlad3O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad3O&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
