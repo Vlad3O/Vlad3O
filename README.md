@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/t4tBw29.png" alt="DevOps Banner"/>
 </p>
 
-<h1 align="center">Привет! Меня зовут [ВАШЕ ИМЯ] 👋</h1>
 <h3 align="center">DevOps инженер | Специалист по автоматизации и облачным технологиям</h3>
 
 ---
@@ -34,27 +33,23 @@
 
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
+  <a href="https://selectel.ru/" target="_blank"><img src="https://img.shields.io/badge/Selectel-22A8E3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjQgMTguN2wtMS44IDEuOC0xLjgtMS44LTEuOCAxLjgtMS44LTEuOC0xLjggMS44LTEuOC0xLjgtMS44IDEuOC0xLjgtMS44VjQuOWgxNC4ydjEzLjhsLTEuOC0xLjgtek0yNCA0Ljl2MTUuOGwtMy42LTMuNi0xLjggMS44LTEuOC0xLjgtMS44IDEuOC0xLjgtMS44LTEuOCAxLjgtMy42IDMuNkgwdjIzLjJoMjMuNFYwaC42eiIvPjwvc3ZnPg==" alt="Selectel"/></a>
   <br/>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
   <a href="https://www.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/></a>
   <br/>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
   <br/>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-  <a href="https://helm.sh/" target="_blank"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></a>
   <br/>
   <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
-  <a href="https://www.elastic.co/logstash" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/></a>
+  <a href="https://www.zabbix.com/" target="_blank"><img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/></a>
   <br/>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
-  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
+  
 </p>
 
 ---
@@ -64,8 +59,8 @@
 Здесь показана моя активность. Это отличный способ продемонстрировать вашу вовлеченность.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ВАШ-НИКНЕЙМ]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ-НИКНЕЙМ]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Vlad3O]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Vlad3O]&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
