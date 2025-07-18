@@ -1,21 +1,15 @@
-<p align="center">
-  <img src="https://i.imgur.com/D5fF2nC.gif" alt="DevOps Banner"/>
-</p>
+
 
 <h3 align="center">DevOps инженер | Специалист по автоматизации и облачным технологиям</h3>
 
-<img src="https://i.imgur.com/o5n15tH.gif" alt="animated-line" width="100%"/>
 
 <p align="center">
   <a href="mailto:movajacks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://t.me/Vls221cs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
-<img src="https://i.imgur.com/o5n15tH.gif" alt="animated-line" width="100%"/>
 
 ### 👨‍💻 Обо мне
-
-<img src="https://i.imgur.com/m522x78.gif" alt="devops-gif" align="right" width="250"/>
 
 Я — DevOps инженер с опытом в построении и поддержке CI/CD пайплайнов, управлении инфраструктурой как кодом (IaC) и автоматизации развертывания приложений в облачных средах. Моя цель — сокращение времени вывода продукта на рынок и повышение надежности систем.
 
